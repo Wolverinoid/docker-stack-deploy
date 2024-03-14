@@ -18,7 +18,7 @@
 
 </div>
 
-GitHub Action and Docker image used to deploy a Docker stack on a Docker Swarm.
+GitHub Action and Docker image used to deploy a Docker stack on a Docker Swarm..
 
 
 ## Configuration options
